@@ -31,18 +31,13 @@ header{
     width: 100%;
     background:var(--skeleton-color);
 
-    display: flex;
-    justify-content: space-between;
-
-}
-
-.author{
-    display: flex;
+    display: inline-block;
+    
 }
 
 section{
     border: 2px solid black ;
-    display: inline-block;
+    display: flex;
 
     background:var(--skeleton-color);
    
